@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sql_Example</string>
+    <string name="title_activity_registrar">ActivityRegistrar</string>
+</resources>
